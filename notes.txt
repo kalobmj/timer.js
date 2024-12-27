@@ -1,0 +1,11 @@
+need to add a sound for when timer ends
+
+once start btn is pressed, it will be hidden and two new buttons will be there. one being pause/stop, the other being reset timer(resets to zero). buttons to add time will be come hidden aswell
+
+need reset button top right
+
+pretty much done but possibly set up an audio for when timer ends
+
+time is going at double speed
+
+consider rewriting 
